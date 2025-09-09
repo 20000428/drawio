@@ -1,0 +1,99 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.0.0.0" version="28.2.0">
+  <diagram name="第 1 页" id="doMVqTurjGTtlI855PUS">
+    <mxGraphModel dx="1111" dy="783" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="9xzlxBEFg6kcSaPBRF1e-21" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="220" width="740" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="9xzlxBEFg6kcSaPBRF1e-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="9xzlxBEFg6kcSaPBRF1e-1" target="9xzlxBEFg6kcSaPBRF1e-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9xzlxBEFg6kcSaPBRF1e-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="9xzlxBEFg6kcSaPBRF1e-1" target="9xzlxBEFg6kcSaPBRF1e-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9xzlxBEFg6kcSaPBRF1e-12" value="N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="9xzlxBEFg6kcSaPBRF1e-10">
+          <mxGeometry x="0.0327" y="2" relative="1" as="geometry">
+            <mxPoint x="3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9xzlxBEFg6kcSaPBRF1e-1" value="外围系统提供接口文档&lt;div&gt;接口地址、接口参数、参考报文&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="270" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9xzlxBEFg6kcSaPBRF1e-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="9xzlxBEFg6kcSaPBRF1e-2" target="9xzlxBEFg6kcSaPBRF1e-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9xzlxBEFg6kcSaPBRF1e-2" value="ED" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="280" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9xzlxBEFg6kcSaPBRF1e-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="9xzlxBEFg6kcSaPBRF1e-3" target="9xzlxBEFg6kcSaPBRF1e-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9xzlxBEFg6kcSaPBRF1e-3" value="SI_SAP_OUT&lt;div&gt;SI_外围系统_IN&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="280" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9xzlxBEFg6kcSaPBRF1e-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="9xzlxBEFg6kcSaPBRF1e-4" target="9xzlxBEFg6kcSaPBRF1e-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9xzlxBEFg6kcSaPBRF1e-4" value="MM_SAP_REQ&lt;div&gt;MM_外围系统_RES&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="280" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9xzlxBEFg6kcSaPBRF1e-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="9xzlxBEFg6kcSaPBRF1e-5" target="9xzlxBEFg6kcSaPBRF1e-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9xzlxBEFg6kcSaPBRF1e-5" value="DT_SAP_REQ&lt;div&gt;DT_外围系统_RES&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="380" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9xzlxBEFg6kcSaPBRF1e-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="9xzlxBEFg6kcSaPBRF1e-6" target="9xzlxBEFg6kcSaPBRF1e-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9xzlxBEFg6kcSaPBRF1e-6" value="MT_SAP_REQ&lt;div&gt;MT_外围系统_RES&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="380" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9xzlxBEFg6kcSaPBRF1e-8" value="提供WSDL" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="170" y="258" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9xzlxBEFg6kcSaPBRF1e-11" value="Y" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="225" y="278" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9xzlxBEFg6kcSaPBRF1e-15" value="OM" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="860" y="280" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9xzlxBEFg6kcSaPBRF1e-23" value="PO:ESR层" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="515" y="190" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9xzlxBEFg6kcSaPBRF1e-24" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="530" width="700" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="9xzlxBEFg6kcSaPBRF1e-25" value="PO:ID层" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="520" y="500" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9xzlxBEFg6kcSaPBRF1e-32" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="570" width="600" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="9xzlxBEFg6kcSaPBRF1e-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="9xzlxBEFg6kcSaPBRF1e-26" target="9xzlxBEFg6kcSaPBRF1e-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9xzlxBEFg6kcSaPBRF1e-26" value="CC_BS_SAP_SEND" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="635" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9xzlxBEFg6kcSaPBRF1e-27" value="CC_BC_外围系统REST_RECV" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="635" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9xzlxBEFg6kcSaPBRF1e-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="9xzlxBEFg6kcSaPBRF1e-29" target="9xzlxBEFg6kcSaPBRF1e-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9xzlxBEFg6kcSaPBRF1e-29" value="ESR" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="635" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9xzlxBEFg6kcSaPBRF1e-33" value="IC" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="535" y="540" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9xzlxBEFg6kcSaPBRF1e-35" value="SAP-&amp;gt;外围系统RESTful接口&lt;div&gt;PO配置顺序&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="10" y="513" width="180" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
