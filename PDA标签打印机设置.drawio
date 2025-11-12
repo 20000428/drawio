@@ -1,0 +1,43 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0" version="28.2.9">
+  <diagram name="第 1 页" id="Fs-0TWgDkiIW5nwRTgfD">
+    <mxGraphModel dx="1017" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="fRAmQ_Cr-2zAtrOgEgKu-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="gnEU-XnzcmRlgM5T6ZwX-1" target="fRAmQ_Cr-2zAtrOgEgKu-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gnEU-XnzcmRlgM5T6ZwX-1" value="PDA" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="100" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fRAmQ_Cr-2zAtrOgEgKu-353" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="fRAmQ_Cr-2zAtrOgEgKu-1" target="fRAmQ_Cr-2zAtrOgEgKu-7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fRAmQ_Cr-2zAtrOgEgKu-1" value="SAP" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="340" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fRAmQ_Cr-2zAtrOgEgKu-4" value="输出打印任务" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="220" y="230" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fRAmQ_Cr-2zAtrOgEgKu-5" value="RFUI" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="225" y="258" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fRAmQ_Cr-2zAtrOgEgKu-352" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="fRAmQ_Cr-2zAtrOgEgKu-7" target="fRAmQ_Cr-2zAtrOgEgKu-350" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fRAmQ_Cr-2zAtrOgEgKu-7" value="中间服务器&lt;div&gt;10.80.121.24:515&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="575" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fRAmQ_Cr-2zAtrOgEgKu-9" value="可以是个人PC也可以是服务器" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="520" y="190" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fRAmQ_Cr-2zAtrOgEgKu-350" value="&lt;div&gt;打印机&lt;/div&gt;10.90.30.31" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="850" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fRAmQ_Cr-2zAtrOgEgKu-351" value="&lt;div&gt;安装了SAP和打印机&lt;/div&gt;&lt;div&gt;打印驱动的设备&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="555" y="300" width="130" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
