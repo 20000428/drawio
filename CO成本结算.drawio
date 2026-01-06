@@ -300,8 +300,8 @@
         <mxCell id="0xx3TIWtlK2DsUHA-1aY-89" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="分配分摊" vertex="1">
           <mxGeometry height="30" width="60" x="400" y="1290" as="geometry" />
         </mxCell>
-        <mxCell id="0xx3TIWtlK2DsUHA-1aY-91" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="若服务与生产分配分摊" vertex="1">
-          <mxGeometry height="30" width="60" x="545" y="1370" as="geometry" />
+        <mxCell id="0xx3TIWtlK2DsUHA-1aY-91" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="若服务于生产分配分摊" vertex="1">
+          <mxGeometry height="30" width="95" x="545" y="1370" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
