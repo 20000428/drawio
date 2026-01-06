@@ -188,6 +188,116 @@
         <mxCell id="0xx3TIWtlK2DsUHA-1aY-32" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="销售开票&lt;div&gt;主营业务收入&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="110" x="910" y="940" as="geometry" />
         </mxCell>
+        <mxCell id="0xx3TIWtlK2DsUHA-1aY-38" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="成本中心类型" vertex="1">
+          <mxGeometry height="30" width="160" x="70" y="1120" as="geometry" />
+        </mxCell>
+        <mxCell id="0xx3TIWtlK2DsUHA-1aY-69" edge="1" parent="1" source="0xx3TIWtlK2DsUHA-1aY-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="0xx3TIWtlK2DsUHA-1aY-67" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0xx3TIWtlK2DsUHA-1aY-39" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="F生产" vertex="1">
+          <mxGeometry height="60" width="120" x="90" y="1190" as="geometry" />
+        </mxCell>
+        <mxCell id="0xx3TIWtlK2DsUHA-1aY-77" edge="1" parent="1" source="0xx3TIWtlK2DsUHA-1aY-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="0xx3TIWtlK2DsUHA-1aY-76">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0xx3TIWtlK2DsUHA-1aY-79" edge="1" parent="1" source="0xx3TIWtlK2DsUHA-1aY-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="0xx3TIWtlK2DsUHA-1aY-78">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0xx3TIWtlK2DsUHA-1aY-40" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="E研发" vertex="1">
+          <mxGeometry height="60" width="120" x="90" y="1310" as="geometry" />
+        </mxCell>
+        <mxCell id="0xx3TIWtlK2DsUHA-1aY-60" edge="1" parent="1" source="0xx3TIWtlK2DsUHA-1aY-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="0xx3TIWtlK2DsUHA-1aY-57" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0xx3TIWtlK2DsUHA-1aY-41" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="G后勤" vertex="1">
+          <mxGeometry height="60" width="120" x="90" y="1420" as="geometry" />
+        </mxCell>
+        <mxCell id="0xx3TIWtlK2DsUHA-1aY-49" edge="1" parent="1" source="0xx3TIWtlK2DsUHA-1aY-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="0xx3TIWtlK2DsUHA-1aY-47">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="260" y="1539.8571428571431" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0xx3TIWtlK2DsUHA-1aY-42" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="L管理" vertex="1">
+          <mxGeometry height="60" width="120" x="90" y="1510" as="geometry" />
+        </mxCell>
+        <mxCell id="0xx3TIWtlK2DsUHA-1aY-56" edge="1" parent="1" source="0xx3TIWtlK2DsUHA-1aY-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="0xx3TIWtlK2DsUHA-1aY-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0xx3TIWtlK2DsUHA-1aY-43" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="V销售" vertex="1">
+          <mxGeometry height="60" width="120" x="90" y="1600" as="geometry" />
+        </mxCell>
+        <mxCell id="0xx3TIWtlK2DsUHA-1aY-50" edge="1" parent="1" source="0xx3TIWtlK2DsUHA-1aY-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="0xx3TIWtlK2DsUHA-1aY-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0xx3TIWtlK2DsUHA-1aY-47" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="管理费用损益类科目" vertex="1">
+          <mxGeometry height="60" width="120" x="270" y="1510" as="geometry" />
+        </mxCell>
+        <mxCell id="0xx3TIWtlK2DsUHA-1aY-48" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="本年利润" vertex="1">
+          <mxGeometry height="60" width="120" x="480" y="1510" as="geometry" />
+        </mxCell>
+        <mxCell id="0xx3TIWtlK2DsUHA-1aY-51" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="不参与分摊直接费用化" vertex="1">
+          <mxGeometry height="50" width="210" x="650" y="1525" as="geometry" />
+        </mxCell>
+        <mxCell id="0xx3TIWtlK2DsUHA-1aY-52" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="不参与分摊直接费用化" vertex="1">
+          <mxGeometry height="50" width="210" x="650" y="1605" as="geometry" />
+        </mxCell>
+        <mxCell id="0xx3TIWtlK2DsUHA-1aY-53" edge="1" parent="1" source="0xx3TIWtlK2DsUHA-1aY-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="0xx3TIWtlK2DsUHA-1aY-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0xx3TIWtlK2DsUHA-1aY-54" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="销售费用损益类科目" vertex="1">
+          <mxGeometry height="60" width="120" x="270" y="1600" as="geometry" />
+        </mxCell>
+        <mxCell id="0xx3TIWtlK2DsUHA-1aY-55" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="本年利润" vertex="1">
+          <mxGeometry height="60" width="120" x="480" y="1600" as="geometry" />
+        </mxCell>
+        <mxCell id="0xx3TIWtlK2DsUHA-1aY-61" edge="1" parent="1" source="0xx3TIWtlK2DsUHA-1aY-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="0xx3TIWtlK2DsUHA-1aY-58" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0xx3TIWtlK2DsUHA-1aY-57" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="辅助性成本中心" vertex="1">
+          <mxGeometry height="60" width="120" x="270" y="1420" as="geometry" />
+        </mxCell>
+        <mxCell id="0xx3TIWtlK2DsUHA-1aY-75" edge="1" parent="1" source="0xx3TIWtlK2DsUHA-1aY-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="0xx3TIWtlK2DsUHA-1aY-73" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0xx3TIWtlK2DsUHA-1aY-58" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="生产性成本中心" vertex="1">
+          <mxGeometry height="60" width="120" x="480" y="1420" as="geometry" />
+        </mxCell>
+        <mxCell id="0xx3TIWtlK2DsUHA-1aY-72" edge="1" parent="1" source="0xx3TIWtlK2DsUHA-1aY-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="0xx3TIWtlK2DsUHA-1aY-70" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0xx3TIWtlK2DsUHA-1aY-67" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="生产性成本中心" vertex="1">
+          <mxGeometry height="60" width="120" x="270" y="1190" as="geometry" />
+        </mxCell>
+        <mxCell id="0xx3TIWtlK2DsUHA-1aY-70" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="工单" vertex="1">
+          <mxGeometry height="60" width="120" x="480" y="1190" as="geometry" />
+        </mxCell>
+        <mxCell id="0xx3TIWtlK2DsUHA-1aY-73" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="工单" vertex="1">
+          <mxGeometry height="60" width="120" x="690" y="1420" as="geometry" />
+        </mxCell>
+        <mxCell id="0xx3TIWtlK2DsUHA-1aY-81" edge="1" parent="1" source="0xx3TIWtlK2DsUHA-1aY-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="0xx3TIWtlK2DsUHA-1aY-80" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0xx3TIWtlK2DsUHA-1aY-76" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="资本化(基本没有)" vertex="1">
+          <mxGeometry height="60" width="120" x="270" y="1270" as="geometry" />
+        </mxCell>
+        <mxCell id="0xx3TIWtlK2DsUHA-1aY-83" edge="1" parent="1" source="0xx3TIWtlK2DsUHA-1aY-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="0xx3TIWtlK2DsUHA-1aY-82" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0xx3TIWtlK2DsUHA-1aY-78" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="费用化" vertex="1">
+          <mxGeometry height="60" width="120" x="270" y="1340" as="geometry" />
+        </mxCell>
+        <mxCell id="0xx3TIWtlK2DsUHA-1aY-80" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="无形资产摊销" vertex="1">
+          <mxGeometry height="60" width="120" x="480" y="1270" as="geometry" />
+        </mxCell>
+        <mxCell id="0xx3TIWtlK2DsUHA-1aY-85" edge="1" parent="1" source="0xx3TIWtlK2DsUHA-1aY-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="0xx3TIWtlK2DsUHA-1aY-84" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0xx3TIWtlK2DsUHA-1aY-82" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="管理费用损益类科目" vertex="1">
+          <mxGeometry height="60" width="120" x="480" y="1340" as="geometry" />
+        </mxCell>
+        <mxCell id="0xx3TIWtlK2DsUHA-1aY-84" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="本年利润" vertex="1">
+          <mxGeometry height="60" width="120" x="690" y="1340" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
