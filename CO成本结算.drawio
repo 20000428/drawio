@@ -46,19 +46,19 @@
         <mxCell id="OQWjNMpQWyyk8BzZrwmK-26" edge="1" parent="1" source="OQWjNMpQWyyk8BzZrwmK-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="OQWjNMpQWyyk8BzZrwmK-10" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="OQWjNMpQWyyk8BzZrwmK-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="6.成本实际成本划分&lt;div&gt;KSS2执行费用分割&lt;/div&gt;" vertex="1">
+        <mxCell id="OQWjNMpQWyyk8BzZrwmK-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="6.成本实际成本划分" vertex="1">
           <mxGeometry height="60" width="110" x="660" y="300" as="geometry" />
         </mxCell>
         <mxCell id="OQWjNMpQWyyk8BzZrwmK-27" edge="1" parent="1" source="OQWjNMpQWyyk8BzZrwmK-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="OQWjNMpQWyyk8BzZrwmK-11" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="OQWjNMpQWyyk8BzZrwmK-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="7.计算实际作业价格&lt;div&gt;KSII计算实际价格&lt;/div&gt;&lt;div&gt;KSBT检查作业价格&lt;/div&gt;" vertex="1">
+        <mxCell id="OQWjNMpQWyyk8BzZrwmK-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="7.计算实际作业价格" vertex="1">
           <mxGeometry height="60" width="110" x="510" y="300" as="geometry" />
         </mxCell>
         <mxCell id="OQWjNMpQWyyk8BzZrwmK-28" edge="1" parent="1" source="OQWjNMpQWyyk8BzZrwmK-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="OQWjNMpQWyyk8BzZrwmK-12" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="OQWjNMpQWyyk8BzZrwmK-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="8.按实际作业价格重估成本&lt;div&gt;CON2&lt;/div&gt;" vertex="1">
+        <mxCell id="OQWjNMpQWyyk8BzZrwmK-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="8.按实际作业价格重估成本" vertex="1">
           <mxGeometry height="60" width="110" x="370" y="300" as="geometry" />
         </mxCell>
         <mxCell id="OQWjNMpQWyyk8BzZrwmK-29" edge="1" parent="1" source="OQWjNMpQWyyk8BzZrwmK-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="OQWjNMpQWyyk8BzZrwmK-13" value="">
