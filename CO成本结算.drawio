@@ -112,6 +112,29 @@
         <mxCell id="OQWjNMpQWyyk8BzZrwmK-20" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="结束" vertex="1">
           <mxGeometry height="40" width="90" x="520" y="500" as="geometry" />
         </mxCell>
+        <mxCell id="0xx3TIWtlK2DsUHA-1aY-11" edge="1" parent="1" source="0xx3TIWtlK2DsUHA-1aY-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="0xx3TIWtlK2DsUHA-1aY-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0xx3TIWtlK2DsUHA-1aY-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="辅助成本中心" vertex="1">
+          <mxGeometry height="60" width="110" x="70" y="650" as="geometry" />
+        </mxCell>
+        <mxCell id="0xx3TIWtlK2DsUHA-1aY-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="归集生产过程中的间接费用:辅助部门工资、设备折旧、厂房租金、水电费等" vertex="1">
+          <mxGeometry height="30" width="190" x="40" y="740" as="geometry" />
+        </mxCell>
+        <mxCell id="0xx3TIWtlK2DsUHA-1aY-7" edge="1" parent="1" source="0xx3TIWtlK2DsUHA-1aY-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="570" y="680" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0xx3TIWtlK2DsUHA-1aY-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="生产性成本中心" vertex="1">
+          <mxGeometry height="60" width="110" x="310" y="650" as="geometry" />
+        </mxCell>
+        <mxCell id="0xx3TIWtlK2DsUHA-1aY-9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="分配/分摊" vertex="1">
+          <mxGeometry height="30" width="60" x="220" y="640" as="geometry" />
+        </mxCell>
+        <mxCell id="0xx3TIWtlK2DsUHA-1aY-10" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="按分割结构拆分" vertex="1">
+          <mxGeometry height="30" width="60" x="470" y="650" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
