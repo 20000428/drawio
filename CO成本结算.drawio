@@ -145,7 +145,7 @@
           <mxGeometry height="60" width="120" x="140" y="850" as="geometry" />
         </mxCell>
         <mxCell id="0xx3TIWtlK2DsUHA-1aY-16" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="直接材料、作业计划价格&lt;div&gt;作业时间*计划作业单价&lt;/div&gt;" vertex="1">
-          <mxGeometry height="30" width="150" x="280" y="920" as="geometry" />
+          <mxGeometry height="70" width="150" x="280" y="920" as="geometry" />
         </mxCell>
         <mxCell id="0xx3TIWtlK2DsUHA-1aY-17" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="实际价格重估&lt;div&gt;（实际价格-计划价格）&lt;/div&gt;&lt;div&gt;实际价格=成本中心借方金额制造费用成本分割后的金额按已报工作业时间比例分配到工单&lt;/div&gt;" vertex="1">
           <mxGeometry height="30" width="140" x="490" y="720" as="geometry" />
