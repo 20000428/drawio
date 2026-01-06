@@ -291,6 +291,12 @@
         <mxCell id="0xx3TIWtlK2DsUHA-1aY-84" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="本年利润" vertex="1">
           <mxGeometry height="60" width="120" x="690" y="1440" as="geometry" />
         </mxCell>
+        <mxCell id="0xx3TIWtlK2DsUHA-1aY-87" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="不参与分摊直接费用化" vertex="1">
+          <mxGeometry height="50" width="210" x="827" y="1445" as="geometry" />
+        </mxCell>
+        <mxCell id="0xx3TIWtlK2DsUHA-1aY-89" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="分配分摊" vertex="1">
+          <mxGeometry height="30" width="60" x="400" y="1290" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
