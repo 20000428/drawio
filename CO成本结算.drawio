@@ -82,7 +82,7 @@
         <mxCell id="OQWjNMpQWyyk8BzZrwmK-32" edge="1" parent="1" source="OQWjNMpQWyyk8BzZrwmK-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="OQWjNMpQWyyk8BzZrwmK-16" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="OQWjNMpQWyyk8BzZrwmK-15" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="12.计算订单差异" vertex="1">
+        <mxCell id="OQWjNMpQWyyk8BzZrwmK-15" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="12.订单结算" vertex="1">
           <mxGeometry height="60" width="110" x="220" y="400" as="geometry" />
         </mxCell>
         <mxCell id="OQWjNMpQWyyk8BzZrwmK-33" edge="1" parent="1" source="OQWjNMpQWyyk8BzZrwmK-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="OQWjNMpQWyyk8BzZrwmK-17" value="">
