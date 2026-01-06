@@ -188,14 +188,6 @@
         <mxCell id="0xx3TIWtlK2DsUHA-1aY-32" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="销售开票&lt;div&gt;主营业务收入&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="110" x="910" y="940" as="geometry" />
         </mxCell>
-        <mxCell id="0xx3TIWtlK2DsUHA-1aY-36" edge="1" parent="1" source="0xx3TIWtlK2DsUHA-1aY-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.667;entryY=-0.005;entryDx=0;entryDy=0;entryPerimeter=0;" target="0xx3TIWtlK2DsUHA-1aY-16">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="0xx3TIWtlK2DsUHA-1aY-37" connectable="0" parent="0xx3TIWtlK2DsUHA-1aY-36" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Text" vertex="1">
-          <mxGeometry relative="1" x="0.3336" y="2" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
