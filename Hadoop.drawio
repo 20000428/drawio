@@ -1,0 +1,34 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36 Edg/144.0.0.0" version="29.3.4">
+  <diagram name="第 1 页" id="cGkCRVDwMrywci__yaZ4">
+    <mxGraphModel dx="1017" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="-9VHi9VxSYo8l5xzh4je-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Java 分布式训练" vertex="1">
+          <mxGeometry height="30" width="110" x="80" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="-9VHi9VxSYo8l5xzh4je-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Hadoop" vertex="1">
+          <mxGeometry height="50" width="80" x="80" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="-9VHi9VxSYo8l5xzh4je-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Yarn" vertex="1">
+          <mxGeometry height="50" width="80" x="400" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="-9VHi9VxSYo8l5xzh4je-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="HDFS" vertex="1">
+          <mxGeometry height="50" width="80" x="400" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="-9VHi9VxSYo8l5xzh4je-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="MapReduce" vertex="1">
+          <mxGeometry height="50" width="80" x="400" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="-9VHi9VxSYo8l5xzh4je-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="实现分析处理" vertex="1">
+          <mxGeometry height="30" width="110" x="510" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="-9VHi9VxSYo8l5xzh4je-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="实现存储" vertex="1">
+          <mxGeometry height="30" width="110" x="510" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="-9VHi9VxSYo8l5xzh4je-8" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="资源管理系统" vertex="1">
+          <mxGeometry height="30" width="110" x="510" y="150" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
