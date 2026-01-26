@@ -20,13 +20,13 @@
           <mxGeometry height="50" width="80" x="400" y="320" as="geometry" />
         </mxCell>
         <mxCell id="-9VHi9VxSYo8l5xzh4je-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="实现分析处理" vertex="1">
-          <mxGeometry height="30" width="110" x="510" y="320" as="geometry" />
+          <mxGeometry height="30" width="110" x="545" y="330" as="geometry" />
         </mxCell>
-        <mxCell id="-9VHi9VxSYo8l5xzh4je-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="实现存储&lt;div&gt;分布式文件系统&lt;/div&gt;" vertex="1">
-          <mxGeometry height="30" width="110" x="510" y="230" as="geometry" />
+        <mxCell id="-9VHi9VxSYo8l5xzh4je-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="实现存储&lt;div&gt;分布式文件系统一个块128MB&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="220" x="490" y="240" as="geometry" />
         </mxCell>
         <mxCell id="-9VHi9VxSYo8l5xzh4je-8" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="资源管理系统" vertex="1">
-          <mxGeometry height="30" width="110" x="500" y="140" as="geometry" />
+          <mxGeometry height="30" width="110" x="545" y="160" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
