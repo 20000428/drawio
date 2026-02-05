@@ -40,7 +40,7 @@
         <mxCell id="AA6Fo8X8WPJqjmD88gEL-13" parent="1" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" value="" vertex="1">
           <mxGeometry height="80" width="80" x="570" y="540" as="geometry" />
         </mxCell>
-        <mxCell id="AA6Fo8X8WPJqjmD88gEL-15" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="MAT1配置默认收货入库控制MR10&lt;div&gt;&lt;div id=&quot;_E_lWKlPt&quot; data-node-type=&quot;block&quot; data-block-type=&quot;text&quot; class=&quot;editor-block text-block editor-block-padding-1 focused&quot;&gt;&lt;div class=&quot;block-content text-element&quot;&gt;&lt;span class=&quot;editor-text-node&quot;&gt;入库控制+库存类型=&amp;gt;搜索策略/库存类型&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="AA6Fo8X8WPJqjmD88gEL-15" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="MAT1配置默认收货入库控制MR10&lt;div&gt;&lt;div id=&quot;_E_lWKlPt&quot; data-node-type=&quot;block&quot; data-block-type=&quot;text&quot; class=&quot;editor-block text-block editor-block-padding-1 focused&quot;&gt;&lt;div class=&quot;block-content text-element&quot;&gt;&lt;span class=&quot;editor-text-node&quot;&gt;入库控制+库存类型=&amp;gt;搜索策略/存储类型&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="30" width="260" x="420" y="390" as="geometry" />
         </mxCell>
         <mxCell id="AA6Fo8X8WPJqjmD88gEL-17" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="手动更改手动确认存储类型为MR20" vertex="1">
