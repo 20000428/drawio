@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36 Edg/144.0.0.0" version="29.3.6">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36 Edg/144.0.0.0" version="29.3.7">
   <diagram name="第 1 页" id="0xJqQ3Dprp92wpDBkZZ0">
-    <mxGraphModel dx="1196" dy="645" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1017" dy="566" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -40,17 +40,11 @@
         <mxCell id="AA6Fo8X8WPJqjmD88gEL-13" parent="1" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" value="" vertex="1">
           <mxGeometry height="80" width="80" x="570" y="540" as="geometry" />
         </mxCell>
-        <mxCell id="AA6Fo8X8WPJqjmD88gEL-15" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="MAT1配置默认收货存类型MR10" vertex="1">
-          <mxGeometry height="30" width="150" x="530" y="400" as="geometry" />
+        <mxCell id="AA6Fo8X8WPJqjmD88gEL-15" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="MAT1配置默认收货入库控制MR10&lt;div&gt;&lt;div id=&quot;_E_lWKlPt&quot; data-node-type=&quot;block&quot; data-block-type=&quot;text&quot; class=&quot;editor-block text-block editor-block-padding-1 focused&quot;&gt;&lt;div class=&quot;block-content text-element&quot;&gt;&lt;span class=&quot;editor-text-node&quot;&gt;入库控制+库存类型=&amp;gt;搜索策略/库存类型&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="260" x="420" y="390" as="geometry" />
         </mxCell>
         <mxCell id="AA6Fo8X8WPJqjmD88gEL-17" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="手动更改手动确认存储类型为MR20" vertex="1">
           <mxGeometry height="30" width="150" x="680" y="520" as="geometry" />
-        </mxCell>
-        <mxCell id="AA6Fo8X8WPJqjmD88gEL-19" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="574" y="870" as="sourcePoint" />
-            <mxPoint x="384" y="870" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="AA6Fo8X8WPJqjmD88gEL-25" edge="1" parent="1" source="AA6Fo8X8WPJqjmD88gEL-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="AA6Fo8X8WPJqjmD88gEL-24">
           <mxGeometry relative="1" as="geometry" />
