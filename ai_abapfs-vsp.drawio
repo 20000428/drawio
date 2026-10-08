@@ -1,0 +1,64 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="第 1 页" id="LkYL0LL2ez4UVt4vkbEK">
+    <mxGraphModel dx="1023" dy="1843" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="tQSbTzcQ632D-t8v-S9Z-3" edge="1" parent="1" source="tQSbTzcQ632D-t8v-S9Z-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="tQSbTzcQ632D-t8v-S9Z-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tQSbTzcQ632D-t8v-S9Z-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="LLM" vertex="1">
+          <mxGeometry height="60" width="120" x="230" y="-130" as="geometry" />
+        </mxCell>
+        <mxCell id="tQSbTzcQ632D-t8v-S9Z-14" edge="1" parent="1" source="tQSbTzcQ632D-t8v-S9Z-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="tQSbTzcQ632D-t8v-S9Z-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tQSbTzcQ632D-t8v-S9Z-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="AI Agent Host" vertex="1">
+          <mxGeometry height="60" width="120" x="230" y="-35" as="geometry" />
+        </mxCell>
+        <mxCell id="tQSbTzcQ632D-t8v-S9Z-9" edge="1" parent="1" source="tQSbTzcQ632D-t8v-S9Z-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="tQSbTzcQ632D-t8v-S9Z-5" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tQSbTzcQ632D-t8v-S9Z-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="MCP Client" vertex="1">
+          <mxGeometry height="60" width="120" x="230" y="175" as="geometry" />
+        </mxCell>
+        <mxCell id="tQSbTzcQ632D-t8v-S9Z-10" edge="1" parent="1" source="tQSbTzcQ632D-t8v-S9Z-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="tQSbTzcQ632D-t8v-S9Z-7" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tQSbTzcQ632D-t8v-S9Z-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="MCP Server" vertex="1">
+          <mxGeometry height="60" width="120" x="230" y="275" as="geometry" />
+        </mxCell>
+        <mxCell id="tQSbTzcQ632D-t8v-S9Z-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="SAP ADT API" vertex="1">
+          <mxGeometry height="60" width="120" x="230" y="390" as="geometry" />
+        </mxCell>
+        <mxCell id="tQSbTzcQ632D-t8v-S9Z-11" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="MCP通路" vertex="1">
+          <mxGeometry height="30" width="60" x="200" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="tQSbTzcQ632D-t8v-S9Z-21" edge="1" parent="1" source="tQSbTzcQ632D-t8v-S9Z-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="tQSbTzcQ632D-t8v-S9Z-20" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tQSbTzcQ632D-t8v-S9Z-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="终端" vertex="1">
+          <mxGeometry height="60" width="120" x="420" y="175" as="geometry" />
+        </mxCell>
+        <mxCell id="tQSbTzcQ632D-t8v-S9Z-15" edge="1" parent="1" source="tQSbTzcQ632D-t8v-S9Z-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="tQSbTzcQ632D-t8v-S9Z-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tQSbTzcQ632D-t8v-S9Z-16" edge="1" parent="1" source="tQSbTzcQ632D-t8v-S9Z-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="tQSbTzcQ632D-t8v-S9Z-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tQSbTzcQ632D-t8v-S9Z-13" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;" value="" vertex="1">
+          <mxGeometry height="80" width="80" x="250" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tQSbTzcQ632D-t8v-S9Z-17" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="CLI通路" vertex="1">
+          <mxGeometry height="30" width="60" x="500" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="tQSbTzcQ632D-t8v-S9Z-22" edge="1" parent="1" source="tQSbTzcQ632D-t8v-S9Z-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="tQSbTzcQ632D-t8v-S9Z-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tQSbTzcQ632D-t8v-S9Z-20" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="VSP CLI" vertex="1">
+          <mxGeometry height="60" width="120" x="420" y="275" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
