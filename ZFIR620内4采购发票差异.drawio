@@ -1,0 +1,56 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="第 1 页" id="LkYL0LL2ez4UVt4vkbEK">
+    <mxGraphModel dx="759" dy="500" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="jIT-a_mu5IFJu_4Ic_0B-10" edge="1" parent="1" source="jIT-a_mu5IFJu_4Ic_0B-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="jIT-a_mu5IFJu_4Ic_0B-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jIT-a_mu5IFJu_4Ic_0B-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="订单金额" vertex="1">
+          <mxGeometry height="60" width="120" x="190" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="jIT-a_mu5IFJu_4Ic_0B-5" edge="1" parent="1" source="jIT-a_mu5IFJu_4Ic_0B-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="jIT-a_mu5IFJu_4Ic_0B-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jIT-a_mu5IFJu_4Ic_0B-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="发票金额&lt;div&gt;无批次&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="370" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="jIT-a_mu5IFJu_4Ic_0B-9" edge="1" parent="1" source="jIT-a_mu5IFJu_4Ic_0B-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="jIT-a_mu5IFJu_4Ic_0B-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jIT-a_mu5IFJu_4Ic_0B-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="ekbe发票校验差异" vertex="1">
+          <mxGeometry height="60" width="120" x="370" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="jIT-a_mu5IFJu_4Ic_0B-19" edge="1" parent="1" source="jIT-a_mu5IFJu_4Ic_0B-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="jIT-a_mu5IFJu_4Ic_0B-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jIT-a_mu5IFJu_4Ic_0B-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="有批次时只有采购订单一行金额为采购订单金额&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;无批次时采购订单有2行一行为采购订单金额 一行为发票校验差异金额&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="280" x="30" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="jIT-a_mu5IFJu_4Ic_0B-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="acdoca根据采购订单取发票校验差异&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;无批次时同一采购订单有2行，这里acdoca差异取2次&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="260" x="370" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="jIT-a_mu5IFJu_4Ic_0B-13" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="jIT-a_mu5IFJu_4Ic_0B-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="250" y="50" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jIT-a_mu5IFJu_4Ic_0B-14" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="jIT-a_mu5IFJu_4Ic_0B-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="250" y="50" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jIT-a_mu5IFJu_4Ic_0B-15" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="有批次" vertex="1">
+          <mxGeometry height="30" width="60" x="220" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="jIT-a_mu5IFJu_4Ic_0B-18" edge="1" parent="1" source="jIT-a_mu5IFJu_4Ic_0B-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="jIT-a_mu5IFJu_4Ic_0B-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jIT-a_mu5IFJu_4Ic_0B-16" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="无批次" vertex="1">
+          <mxGeometry height="30" width="60" x="400" y="10" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
